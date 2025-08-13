@@ -25,12 +25,11 @@ This repository contains the official implementation of the paper:
 
 Structure of SRDM：
 
-<img src="D:\DXC\Paper\气候\CSEE校稿\Fig\SRDM.png" alt="SRDM" style="zoom: 25%;" />
+<img src=".\Fig\SRDM.png" width="400px" />
 
 Super-resolution results：
 
-<img src="D:\DXC\Paper\气候\CSEE校稿\Fig\Climate.png" alt="Climate" style="zoom: 50%;" />
-
+<img src=".\Fig\Climate.png" width="600px" />
 
 
 ## 📜 Citation
@@ -61,4 +60,5 @@ This work was supported by:
 
 - National Key R&D Program of China (2022YFB2403000)
 - Postdoctoral Fellowship Program and China Postdoctoral Science Foundation (BX20250414)
+
 - China Postdoctoral Science Foundation (2025M770478)
